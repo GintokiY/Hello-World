@@ -1,2 +1,2 @@
-# Gintokiy.github.io
+# gintokiy.github.io
 My blog
