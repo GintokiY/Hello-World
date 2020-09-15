@@ -1,2 +1,2 @@
-# Superhero.Github.io
+# My Blog
 My blog
